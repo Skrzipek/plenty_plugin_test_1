@@ -1,0 +1,8 @@
+{
+    "name":"PluginTestNr1",
+    "description":"CS First Super Plugin",
+    "namespace":"CSPlugin",
+    "author":"caresyn",
+    "type":"template",
+    "serviceProvider":null
+}
