@@ -1,8 +1,9 @@
 {
     "name":"PluginTestNr1",
     "description":"CS First Super Plugin",
-    "namespace":"CSPlugin",
+    "namespace":"plenty_plugin_test_1",
     "author":"caresyn",
     "type":"template",
-    "serviceProvider":null
+    "serviceProvider":"plenty_plugin_test_1\\provider\\PluginTestServiceProvider"
+    
 }

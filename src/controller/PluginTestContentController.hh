@@ -9,6 +9,6 @@
     {
         public function sayFicken(Twig $twig):string
         {
-            return $twig->render('PluginTestNr1::ficken.twig');
+            return $twig->render('plenty_plugin_test_1::content.ficken');
         }
     }
