@@ -5,5 +5,4 @@
     "author":"caresyn",
     "type":"template",
     "serviceProvider":"plenty_plugin_test_1\\provider\\PluginTestServiceProvider"
-    
 }
